@@ -1,0 +1,15 @@
+{
+  "name": "odisea-del-pensamiento",
+  "version": "1.0.0",
+  "description": "Plataforma educativa para el desarrollo del pensamiento crítico",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo \"No build step needed\""
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "serve": "^14.0.0"
+  }
+}
